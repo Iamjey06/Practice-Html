@@ -1,0 +1,56 @@
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.video-name {
+    font-weight: bold;
+    font-family: roboto;
+    font-size: 17px;
+    width: 250px;
+    margin-bottom: 5px;
+}
+
+.views {
+    font-family: Times New Roman;
+    font-size: 15px;
+    opacity: 0.7;
+}
+
+.author {
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    margin-top: 30px;
+    font-size: 17px;
+    opacity: 0.7;
+}
+
+.description {
+    font-family: 'Times New Roman';
+    font-size: 17px;
+    margin-top: 30px;
+    width: 250px;
+    opacity: 0.7;
+}
+
+.buy {
+    background-color: red;
+    margin-top: 100px;
+    width: 600px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.shop-now {
+    transition: text-decoration 0.20s, color 0.15s;
+}
+
+    .shop-now:hover {
+        text-decoration: underline;
+        opacity: 0.7;
+        cursor: pointer;
+    }
